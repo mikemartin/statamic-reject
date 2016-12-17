@@ -1,0 +1,6 @@
+name: Reject Filter
+version: 1.1.0
+description: Remove entries from a collection
+url: http://github.com/mikemartin/statamic-reject
+developer: Mike Martin
+developer_url: http://github.com/mikemartin/
